@@ -1,0 +1,36 @@
+h1 {
+     color: #DCE;
+            
+    }
+ * {
+        border: solid;
+    }
+    .header{
+        background-color: #ffc0cb;
+        display: flex;
+        justify-content: center;
+        flex-grow: 4;
+    }
+
+    .grid{
+        background-color: #ad4200;
+        display: flex;
+        flex-wrap: wrap-reverse;
+        justify-content: space-between;
+    }
+
+    .footer{
+        background-color: #55667a;
+        display: flex;
+        flex-wrap: unset;
+        justify-content: flex-start;
+    }
+
+    p,h2{
+        background-color: #435354;
+        text-align: center;
+    }
+
+    body{
+        background-color: #cabbed;
+    }
